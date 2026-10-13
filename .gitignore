@@ -1,0 +1,16 @@
+# Jupyter and Python-generated files
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+DDOS_ATTACK_prediction_3ATEL1.ipynb
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local tooling and secrets
+.env
+.env.*
+.vscode/settings.json
